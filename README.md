@@ -25,7 +25,7 @@ When marking duplicates, *samblaster* will require approximately 20MB of memory 
 
 *samblaster* can be downloaded from the **_releases_** tab or manually downloaded via *git clone*.  Afterwards, simply use *make* and copy *samblaster* to a directory in your path.  For example:
 ~~~~~~~~~~~~~~~~~~
-git clone git://github.com/GregoryFaust/samblaster.git
+git clone https://github.com/GregoryFaust/samblaster.git
 cd samblaster
 make
 cp samblaster /usr/local/bin/.
